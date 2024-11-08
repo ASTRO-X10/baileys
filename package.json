@@ -8,6 +8,7 @@
 		"@hapi/boom": "^10.0.1",
 		"async-lock": "^1.4.1",
 		"axios": "^1.7.7",
+		"cache-manager": "^6.1.2",
 		"futoin-hkdf": "^1.5.3",
 		"libphonenumber-js": "^1.11.13",
 		"libsignal": "github:ASTRO-X10/libsignal-node-master",
