@@ -1,0 +1,19 @@
+{
+	"name": "baileys",
+	"version": "6.7.9",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"dependencies": {
+		"@adiwajshing/keyed-db": "^0.2.4",
+		"@hapi/boom": "^10.0.1",
+		"async-lock": "^1.4.1",
+		"axios": "^1.7.7",
+		"libphonenumber-js": "^1.11.13",
+		"libsignal": "github:WhiskeySockets/libsignal-node",
+		"lodash": "^4.17.21",
+		"pino": "^9.5.0",
+		"protobufjs": "^7.4.0",
+		"uuid": "^11.0.2",
+		"ws": "^8.18.0"
+	}
+}
